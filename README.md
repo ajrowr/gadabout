@@ -17,4 +17,5 @@ I'm [Alan Rowarth](http://twitter.com/ajrowr) and I'm building frameworks and in
 - [Follow me on Twitter](http://twitter.com/ajrowr)
 - [My website - Meta4vr.net](http://meta4vr.net)
 - [Meta4 VR on Facebook](http://facebook.com/meta4vr)
+- Want to build something with WebVR? Try the [Carnival Framework](http://ajrowr.github.com/carnival)!
 - My Patreon (coming soon)
