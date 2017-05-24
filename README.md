@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Gadabout
 
-You can use the [editor on GitHub](https://github.com/ajrowr/gadabout/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Gadabout is a feed reader for WebVR. It can connect to [JSON Feed](https://jsonfeed.org/) compatible 
+feeds and is built upon the [Carnival Framework](http://github.com/ajrowr/carnival), which I am the creator 
+and maintainer of.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gadabout is a very new app and as such is not yet very sophisticated, elegant or pretty; but I already use it 
+daily for my own feed reading so no doubt I will be improving it as spare time permits.
 
-### Markdown
+Currently only HTC Vive is supported, I hope to add support for other platforms to the framework soon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Click here for Gadabout](/app/)
 
-```markdown
-Syntax highlighted code block
+## About me
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajrowr/gadabout/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm [Alan Rowarth](http://twitter.com/ajrowr) and I'm building frameworks and infrastructure for the spatial web. I'm determined that Virtual Reality will be a democratic medium and I believe that the best way to do this is to create easy-to-use tools, outside of megacorp control, for people to build whatever they can imagine. I'm just one guy - a hacker without a backer - and I'd love to have your help and/or support.
+- [Follow me on Twitter](http://twitter.com/ajrowr)
+- [My website - Meta4vr.net](http://meta4vr.net)
+- [Meta4 VR on Facebook](http://facebook.com/meta4vr)
+- My Patreon (coming soon)
