@@ -9,7 +9,7 @@ daily for my own feed reading so no doubt I will be improving it as spare time p
 
 Currently only HTC Vive is supported, I hope to add support for other platforms to the framework soon.
 
-[Click here for Gadabout](/app/)
+*__[Click here for Gadabout](/app/)__*
 
 ## About me
 
